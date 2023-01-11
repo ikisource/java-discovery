@@ -1,0 +1,4 @@
+rootProject.name = 'java-discovery'
+include 'java15'
+include 'java14'
+
