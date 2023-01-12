@@ -1,5 +1,6 @@
 # java-discovery
-This repository contains the new functionalities that are provided when a new JDK is released 🐣
+Ce dépôt contient les nouvelles fonctionnalités proposées par un JDK.
+Elles peuvent être en preview dans un premier temps.
 
 ## Java 15
 
