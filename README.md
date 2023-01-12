@@ -1,4 +1,4 @@
-# java-discovery
+# java-discovery ⛳️
 Ce dépôt contient les nouvelles fonctionnalités proposées par un JDK.
 Elles peuvent être en preview dans un premier temps.
 
