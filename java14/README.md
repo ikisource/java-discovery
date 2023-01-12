@@ -1,4 +1,5 @@
 # Java 14
 
-## Records (JEP 359) - preview
-## Switch Expressions (JEP 361)
+- JEP 359 : Records (preview)
+- JEP 361 : Switch Expressions
+- JEP 368 : Text Blocks (Second Preview)
