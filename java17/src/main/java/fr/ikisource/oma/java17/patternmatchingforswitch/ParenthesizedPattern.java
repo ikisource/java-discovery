@@ -12,6 +12,7 @@ public class ParenthesizedPattern {
     static double getDoubleUsingSwitch(Object o) {
         return switch (o) {
             case String s -> Double.parseDouble(s);
+            default -> 0d;
         };
     }
 }
