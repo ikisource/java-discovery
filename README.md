@@ -7,3 +7,6 @@ Elles peuvent être en preview dans un premier temps.
 ## Java 16
 
 ## Java 17
+
+## Java 19
+- JEP 405: Record Patterns (Preview)

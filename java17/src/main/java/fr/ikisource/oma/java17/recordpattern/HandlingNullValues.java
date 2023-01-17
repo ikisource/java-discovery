@@ -1,4 +1,4 @@
-package fr.ikisource.oma.java17.patternmatchingforswitch;
+package fr.ikisource.oma.java17.recordpattern;
 
 public class HandlingNullValues {
 
