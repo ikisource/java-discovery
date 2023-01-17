@@ -3,4 +3,5 @@ include 'java15'
 include 'java14'
 include 'java17'
 include 'java19'
+include 'java12'
 

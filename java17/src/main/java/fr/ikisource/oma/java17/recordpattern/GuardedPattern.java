@@ -15,11 +15,13 @@ public class GuardedPattern {
         };
     }
 
+    /* Old patterns from JEP 406 are not available since Java 19 preview
     static double getDoubleValueUsingGuardedPatterns(Object o) {
         return switch (o) {
             case String s && s.length() > 0 -> Double.parseDouble(s);
             default -> 0d;
         };
     }
+    */
 
 }

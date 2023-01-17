@@ -13,4 +13,13 @@ public class PlayWithRecords {
         }
         return 0;
     }
+
+    /* not ready ?
+    public void patternMatchingOnArray() {
+        // pattern matching sur les tableaux
+        Object o = new String[]{"A", "B"};
+        if (o instanceof String[] {String s1, String s2} ) {
+            System.out.println("concat = " + s1 + s2);
+        }
+    }*/
 }
