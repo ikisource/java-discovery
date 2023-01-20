@@ -1,4 +1,4 @@
-package fr.ikisource.oma.java17.enhancedpseudorandomnumbergenerators;
+package fr.ikisource.oma.java19.enhancedpseudorandomnumbergenerators;
 
 import java.util.Comparator;
 import java.util.random.RandomGeneratorFactory;

@@ -1,4 +1,4 @@
-package fr.ikisource.oma.java17.sealed;
+package fr.ikisource.oma.java19.sealed;
 
 public sealed interface Service permits Car, Truck {
 

@@ -1,4 +1,4 @@
-package fr.ikisource.oma.java17.recordpattern;
+package fr.ikisource.oma.java19.recordpattern;
 
 public record Square(int edge) implements Shape {
 
