@@ -1,11 +1,25 @@
 # java-discovery ⛳️
+
 Ce dépôt contient les nouvelles fonctionnalités proposées par un JDK.
 Elles peuvent être dans le statut **preview** ou **incubator**
 
 Seules les JEP qui me semblent utiles (en gras) seront décrites dans ce projet.
 Les JEP techniques ou difficilement exposables ne seront pas décrites. 
 
-## Java 12
+## JDK 1.0 Oak - January 1996
+## JDK 1.1 - February 1997
+## J2SE 1.2 Playground - December 1998
+## J2SE 1.3 Kestrel - May 2000
+## J2SE 1.4 Merlin - February 2002
+## J2SE 5.0 - (1.5) Tiger - September 2004
+## Java 6 Mustang - December 2006
+## Java 7 Dolphin - July 2011
+## Java 8 - 2014/03/18
+## Java 9 - 2017/09/21
+## Java 10 - 2018/03/20
+## Java 11 - 2018/09/25
+
+## Java 12 - 2019/03/19
 - JEP 189 : Shenandoah: A Low-Pause-Time Garbage Collector (Experimental)
 - JEP 230 : Microbenchmark Suite
 - **JEP 325** : Switch Expressions (Preview)
@@ -15,14 +29,14 @@ Les JEP techniques ou difficilement exposables ne seront pas décrites.
 - JEP 344 : Abortable Mixed Collections for G1
 - JEP 346 : Promptly Return Unused Committed Memory from G1
 
-## Java 13
+## Java 13 - 2019/09/17
 - JEP 350 :	Dynamic CDS Archives
 - JEP 351 : ZGC: Uncommit Unused Memory
 - JEP 353 : Reimplement the Legacy Socket API
 - **JEP 354** : Switch Expressions (Preview)
 - **JEP 355** : Text Blocks (Preview)
 
-## Java 14
+## Java 14 - 2020/03/17
 - **JEP 305** : Pattern Matching for instanceof (Preview)
 - JEP 343 : Packaging Tool (Incubator)
 - JEP 345 : NUMA-Aware Memory Allocation for G1
@@ -40,7 +54,7 @@ Les JEP techniques ou difficilement exposables ne seront pas décrites.
 - **JEP 368** : Text Blocks (Second Preview)
 - JEP 370 : Foreign-Memory Access API (Incubator)
 
-## Java 15
+## Java 15 - 2020/09/15
 - JEP 339 :	Edwards-Curve Digital Signature Algorithm (EdDSA)
 - **JEP 360* :	Sealed Classes (Preview)
 - JEP 371 :	Hidden Classes
@@ -56,7 +70,7 @@ Les JEP techniques ou difficilement exposables ne seront pas décrites.
 - **JEP 384** :	Records (Second Preview)
 - JEP 385 :	Deprecate RMI Activation for Removal
 
-## Java 16
+## Java 16 - 2021/03/16
 - JEP 338 :	Vector API (Incubator)
 - JEP 347 :	Enable C++14 Language Features
 - JEP 357 :	Migrate from Mercurial to Git
@@ -75,7 +89,7 @@ Les JEP techniques ou difficilement exposables ne seront pas décrites.
 - JEP 396 :	Strongly Encapsulate JDK Internals by Default
 - **JEP 397** :	Sealed Classes (Second Preview)
 
-## Java 17
+## Java 17 - 2021/09/14
 - JEP 306 :	Restore Always-Strict Floating-Point Semantics
 - JEP 356 :	Enhanced Pseudo-Random Number Generators
 - JEP 382 :	New macOS Rendering Pipeline
@@ -91,9 +105,9 @@ Les JEP techniques ou difficilement exposables ne seront pas décrites.
 - JEP 414 :	Vector API (Second Incubator)
 - JEP 415 :	Context-Specific Deserialization Filters
 
-## Java 18
+## Java 18 - 2022/03/22
 
-## Java 19
+## Java 19 - 2022/09/20
 - **JEP 405** :	Record Patterns (Preview)
 - JEP 422 : Linux/RISC-V Port
 - JEP 424 : Foreign Function & Memory API (Preview)
@@ -101,3 +115,12 @@ Les JEP techniques ou difficilement exposables ne seront pas décrites.
 - JEP 426: 	Vector API (Fourth Incubator)
 - JEP 427: 	Pattern Matching for switch (Third Preview)
 - JEP 428: 	Structured Concurrency (Incubator)
+
+## Java 20 - 2023/03/21
+
+## Java 21 - 2023/09/19
+
+
+
+
+

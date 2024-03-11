@@ -9,4 +9,5 @@ include 'java16'
 include 'java18'
 include 'java19'
 include 'java21'
+include 'java8'
 
