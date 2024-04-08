@@ -120,6 +120,8 @@ Les JEP techniques ou difficilement exposables ne seront pas décrites.
 
 ## Java 21 - 2023/09/19
 
+## Java 22 - 2024/03/19
+- **JEP 447** : Statements before super(...) (Preview)
 
 
 
